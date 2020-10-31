@@ -70,7 +70,7 @@
 }
 
 .banner header .toggle {
-    background-image: url(img/toggle.png);
+    background-image: url(toggle.png);
     background-size: cover;
     background-position: center;
     width: 36px;
@@ -110,7 +110,7 @@
 }
 
 .about .imgBx {
-    background: url(img/imagen-about.jpg);
+    background: url(imagen-about.jpg);
     background-position: center;
     background-size: cover;
     width: 50%;
@@ -258,7 +258,7 @@
 }
 
 .imgBx2 {
-    background: url(img/imagen-contacto.jpg);
+    background: url(imagen-contacto.jpg);
     background-position: center;
     background-size: cover;
     width: 50%;
